@@ -1,0 +1,25 @@
+h1 {
+	font-weight: normal;
+}
+
+table.table {
+	font-family: "Helvetica Neue";
+	margin: 10px 0;
+}
+
+figure {
+	max-height: 30em;
+	overflow-y: auto;
+}
+
+fieldset {
+	margin-top: 20px;
+}
+
+.viewing fieldset {
+	display: none;
+}
+
+td[nowrap] {
+	white-space: nowrap;
+}

@@ -1,0 +1,84 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Libraries with Access to Research</title>
+
+<!-- styles -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="notebook.css">
+
+<!-- scripts -->
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script src="http://git.macropus.org/EAT/EAT.js"></script>
+
+<body ng-app="notebook">
+
+<div class="container" ng-controller="notebookController">
+
+<h1>Libraries with Access to Research</h1>
+
+<form ng-class="{ viewing: viewing }">
+	<div>
+		<button class="btn btn-primary" ng-show="viewing" ng-click="setViewing(false)">Edit</button>
+		<button class="btn btn-primary" ng-show="!viewing" ng-click="setViewing(true)">View</button>
+
+		<button type="button" ng-click="saveData()" ng-show="!viewing &amp;&amp; libraries.length"
+				ng-class="{ 'btn': true, 'btn-primary': !saved, 'btn-success': saved }">Save data</button>
+	</div>
+
+	<fieldset>
+		<legend>Initialise</legend>
+		<input name="url" type="url" class="form-control" ng-model="url">
+	</fieldset>
+
+	<fieldset>
+		<legend>Libraries</legend>
+
+		<button type="button" ng-click="fetchLibraries($event)"
+			 	ng-class="{ 'btn': true, 'btn-primary': !libraries.length, 'btn-success': libraries.length }">fetch libraries</button>
+	</fieldset>
+
+	<fieldset ng-show="libraries.length">
+		<legend>Postcodes</legend>
+
+		<button type="button" class="btn btn-primary" ng-click="fetchPostcodes($event)">fetch postcodes</button>
+		<button type="button" class="btn btn-primary" ng-click="selectPostcode()">select best postcode</button>
+	</fieldset>
+
+	<fieldset ng-show="libraries.length">
+		<legend>Locations</legend>
+
+		<button type="button" class="btn btn-primary" ng-click="fetchLocations($event)">fetch locations</button>
+		<button type="button" class="btn btn-primary" ng-click="mapLocations()">map locations</button>
+	</fieldset>
+
+	<figure id="map" style="width:100%;height:500px;margin:10px 0"></figure>
+
+	<figure>
+		<table class="table table-bordered" ng-show="libraries.length">
+			<thead>
+				<tr>
+					<th>Library</th>
+					<th>Postcodes</th>
+					<th>Postcode</th>
+					<th>Location</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="library in libraries">
+					<td><a ng-href="{{ library.url }}">{{ library.name }}</a></td>
+					<td>{{ library.postcodes.join(', ') }}</td>
+					<td nowrap>{{ library.postcode }}</td>
+					<td nowrap><span ng-show="library.latitude">{{ library.latitude }}, {{ library.longitude }}</span></td>
+				</tr>
+			</tbody>
+		</table>
+	</figure>
+</form>
+
+<script src="notebook.js"></script>
+
+<script>
+var app = angular.module('notebook', []).controller('notebookController', notebookController);
+</script>
+</body>

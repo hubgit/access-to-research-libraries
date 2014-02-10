@@ -1,0 +1,2728 @@
+[
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/abingdon-library",
+    "name": "Abingdon",
+    "$$hashKey": "004",
+    "postcodes": [
+      "OX14 3LY",
+      "OX1 1ND"
+    ],
+    "postcode": "OX14 3LY",
+    "latitude": "51.671713",
+    "longitude": "-1.283266"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/adderbury-library",
+    "name": "Adderbury",
+    "$$hashKey": "005",
+    "postcodes": [
+      "OX17 3LS",
+      "OX17 3LS",
+      "OX1 1ND"
+    ],
+    "postcode": "OX17 3LS",
+    "latitude": "52.015694",
+    "longitude": "-1.313878"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/addlestone-library",
+    "name": "Addlestone",
+    "$$hashKey": "006",
+    "postcodes": [
+      "KT15 2AF"
+    ],
+    "postcode": "KT15 2AF",
+    "latitude": "51.371118",
+    "longitude": "-0.490004"
+  },
+  {
+    "url": "http://www.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=134&pcd=ME16%200PR",
+    "name": "Allington Library",
+    "$$hashKey": "007",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME16 0PR"
+    ],
+    "postcode": "ME16 0PR",
+    "latitude": "51.287268",
+    "longitude": "0.497560"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_ascot.htm",
+    "name": "Ascot Durning",
+    "$$hashKey": "008",
+    "postcodes": [
+      "SL5 7JF",
+      "SL6 1RF"
+    ],
+    "postcode": "SL5 7JF",
+    "latitude": "51.411273",
+    "longitude": "-0.675397"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ash-library",
+    "name": "Ash",
+    "$$hashKey": "009",
+    "postcodes": [
+      "GU12 6LF"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ash-library",
+    "name": "Ash Library",
+    "$$hashKey": "00A",
+    "postcodes": [
+      "GU12 6LF"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=15&uprn=200000532984",
+    "name": "Ashen Drive Library",
+    "$$hashKey": "00B",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA1 3LY"
+    ],
+    "postcode": "DA1 3LY",
+    "latitude": "51.444408",
+    "longitude": "0.191198"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ashford-library",
+    "name": "Ashford",
+    "$$hashKey": "00C",
+    "postcodes": [
+      "TW15 2XB"
+    ],
+    "postcode": "TW15 2XB",
+    "latitude": "51.433756",
+    "longitude": "-0.464128"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=1&uprn=010012859130",
+    "name": "Ashford Library",
+    "$$hashKey": "00D",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN23 1AS"
+    ],
+    "postcode": "TN23 1AS",
+    "latitude": "51.146850",
+    "longitude": "0.872263"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ashtead-library",
+    "name": "Ashtead",
+    "$$hashKey": "00E",
+    "postcodes": [
+      "KT21 2BQ"
+    ],
+    "postcode": "KT21 2BQ",
+    "latitude": "51.312147",
+    "longitude": "-0.302277"
+  },
+  {
+    "url": "http://www.buckscc.gov.uk/bcc/libraries/Branches/aylesbury_study.page#.UtQEy9RFBiA",
+    "name": "Aylesbury Study centre",
+    "$$hashKey": "00F",
+    "postcodes": [
+      "HP20 1UU"
+    ],
+    "postcode": "HP20 1UU",
+    "latitude": "51.814533",
+    "longitude": "-0.812314"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=27&uprn=010034873752",
+    "name": "Aylesham Library",
+    "$$hashKey": "00G",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT3 3AJ"
+    ],
+    "postcode": "CT3 3AJ",
+    "latitude": "51.225733",
+    "longitude": "1.209305"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/bagshot-village-community-library",
+    "name": "Bagshot",
+    "$$hashKey": "00H",
+    "postcodes": [
+      "GU19 5AH"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/bampton-library",
+    "name": "Bampton",
+    "$$hashKey": "00I",
+    "postcodes": [
+      "OX18 2NE",
+      "OX1 1ND"
+    ],
+    "postcode": "OX18 2NE",
+    "latitude": "51.726392",
+    "longitude": "-1.547774"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/banbury-library",
+    "name": "Banbury",
+    "$$hashKey": "00J",
+    "postcodes": [
+      "OX16 5DB",
+      "OX1 1ND"
+    ],
+    "postcode": "OX16 5DB",
+    "latitude": "52.059810",
+    "longitude": "-1.336920"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/bagshot-village-community-library",
+    "name": "Banstead",
+    "$$hashKey": "00K",
+    "postcodes": [
+      "GU19 5AH"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/community-links",
+    "name": "Beare Green",
+    "$$hashKey": "00L",
+    "postcodes": [
+      "RH5 4RD",
+      "GU5 9HD"
+    ],
+    "postcode": "GU5 9HD",
+    "latitude": "51.220625",
+    "longitude": "-0.461491"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=54&uprn=200003695515",
+    "name": "Bearsted Library",
+    "$$hashKey": "00M",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME14 4DN"
+    ],
+    "postcode": "ME14 4DN",
+    "latitude": "51.274584",
+    "longitude": "0.580165"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/benson-library",
+    "name": "Benson",
+    "$$hashKey": "00N",
+    "postcodes": [
+      "OX10 6SD",
+      "OX1 1ND"
+    ],
+    "postcode": "OX10 6SD",
+    "latitude": "51.620911",
+    "longitude": "-1.109758"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/berinsfield-library",
+    "name": "Berinsfield",
+    "$$hashKey": "00O",
+    "postcodes": [
+      "OX10 7NR",
+      "OX1 1ND"
+    ],
+    "postcode": "OX10 7NR",
+    "latitude": "51.662990",
+    "longitude": "-1.176093"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/bexhill/default.htm?utm_source=librarynews&utm_medium=web&utm_content=feature-2013-01-refurbishbexhilllibrary&utm_campaign=librarynews",
+    "name": "Bexhill",
+    "$$hashKey": "00P",
+    "postcodes": [
+      "TN40 1DY"
+    ],
+    "postcode": "TN40 1DY",
+    "latitude": "50.840368",
+    "longitude": "0.470804"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/bicester-library",
+    "name": "Bicester",
+    "$$hashKey": "00Q",
+    "postcodes": [
+      "OX26 6AU",
+      "OX1 1ND"
+    ],
+    "postcode": "OX26 6AU",
+    "latitude": "51.894458",
+    "longitude": "-1.153528"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=82&uprn=100062304334",
+    "name": "Birchington Library",
+    "$$hashKey": "00R",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT7 9EG"
+    ],
+    "postcode": "CT7 9EG",
+    "latitude": "51.377321",
+    "longitude": "1.305433"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/blackbird-leys-library",
+    "name": "Blackbird Leys",
+    "$$hashKey": "00S",
+    "postcodes": [
+      "OX4 6HT",
+      "OX1 1ND"
+    ],
+    "postcode": "OX4 6HT",
+    "latitude": "51.719656",
+    "longitude": "-1.201063"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=2&uprn=100062561322",
+    "name": "Bockhanger Library",
+    "$$hashKey": "00T",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN24 9JE"
+    ],
+    "postcode": "TN24 9JE",
+    "latitude": "51.163541",
+    "longitude": "0.880095"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/bookham-library",
+    "name": "Bookham",
+    "$$hashKey": "00U",
+    "postcodes": [
+      "KT23 4DQ"
+    ],
+    "postcode": "KT23 4DQ",
+    "latitude": "51.278155",
+    "longitude": "-0.375250"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=91&uprn=100062551077",
+    "name": "Borough Green Library",
+    "$$hashKey": "00V",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN15 8BJ"
+    ],
+    "postcode": "TN15 8BJ",
+    "latitude": "51.292339",
+    "longitude": "0.306487"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/botley-library",
+    "name": "Botley",
+    "$$hashKey": "00W",
+    "postcodes": [
+      "OX2 9LP",
+      "OX1 1ND"
+    ],
+    "postcode": "OX2 9LP",
+    "latitude": "51.751895",
+    "longitude": "-1.297454"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=75&uprn=100062626085",
+    "name": "Boughton-under-Blean Library",
+    "$$hashKey": "00X",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME13 9AH"
+    ],
+    "postcode": "ME13 9AH",
+    "latitude": "51.298012",
+    "longitude": "0.947142"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/bramley-library",
+    "name": "Bramley",
+    "$$hashKey": "00Y",
+    "postcodes": [
+      "GU5 0HG"
+    ],
+    "postcode": "GU5 0HG",
+    "latitude": "51.193329",
+    "longitude": "-0.556528"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=83&uprn=100062281548",
+    "name": "Broadstairs Library",
+    "$$hashKey": "00Z",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT10 2BS"
+    ],
+    "postcode": "CT10 2BS",
+    "latitude": "51.360658",
+    "longitude": "1.432507"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/burford-library",
+    "name": "Burford",
+    "$$hashKey": "010",
+    "postcodes": [
+      "OX18 4QF",
+      "OX1 1ND"
+    ],
+    "postcode": "OX18 4QF",
+    "latitude": "51.808225",
+    "longitude": "-1.636826"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/byfleet-community-library",
+    "name": "Byfleet",
+    "$$hashKey": "011",
+    "postcodes": [
+      "KT14 7QN"
+    ],
+    "postcode": "KT14 7QN",
+    "latitude": "51.339292",
+    "longitude": "-0.475959"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/camberley-library",
+    "name": "Camberley",
+    "$$hashKey": "012",
+    "postcodes": [
+      "GU15 3SY"
+    ],
+    "postcode": "GU15 3SY",
+    "latitude": "51.339072",
+    "longitude": "-0.743821"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=8&uprn=010033173051",
+    "name": "Canterbury Library",
+    "$$hashKey": "013",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT1 2RA"
+    ],
+    "postcode": "CT1 2RA",
+    "latitude": "51.279693",
+    "longitude": "1.079473"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/carterton-library",
+    "name": "Carterton",
+    "$$hashKey": "014",
+    "postcodes": [
+      "OX18 3JH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX18 3JH",
+    "latitude": "51.758286",
+    "longitude": "-1.597542"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/caterham-hill-library",
+    "name": "Caterham Hill",
+    "$$hashKey": "015",
+    "postcodes": [
+      "CR3 5TP"
+    ],
+    "postcode": "CR3 5TP",
+    "latitude": "51.287960",
+    "longitude": "-0.096623"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/caterham-valley-library",
+    "name": "Caterham Valley",
+    "$$hashKey": "016",
+    "postcodes": [
+      "CR3 6JG"
+    ],
+    "postcode": "CR3 6JG",
+    "latitude": "51.283484",
+    "longitude": "-0.080318"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/myservices/british-citizenship/Pages/default.aspx",
+    "name": "Catford library",
+    "$$hashKey": "017",
+    "postcodes": [
+      "SE6 4RU"
+    ],
+    "postcode": "SE6 4RU",
+    "latitude": "51.445076",
+    "longitude": "-0.020779"
+  },
+  {
+    "url": "http://www.calderdale.gov.uk/leisure/libraries/branches/central-library.html",
+    "name": "Central library, Halifax",
+    "$$hashKey": "018",
+    "postcodes": [
+      "HX1 1UN",
+      "HX1 1UJ"
+    ],
+    "postcode": "HX1 1UN",
+    "latitude": "53.724306",
+    "longitude": "-1.859097"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=3&uprn=100062563603",
+    "name": "Charing Library",
+    "$$hashKey": "019",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN27 0LR"
+    ],
+    "postcode": "TN27 0LR",
+    "latitude": "51.210530",
+    "longitude": "0.795048"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/charlbury-library",
+    "name": "Charlbury",
+    "$$hashKey": "01A",
+    "postcodes": [
+      "OX7 3PN",
+      "OX7 3PN",
+      "OX1 1ND"
+    ],
+    "postcode": "OX7 3PN",
+    "latitude": "51.873024",
+    "longitude": "-1.482656"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=33&uprn=000050028955",
+    "name": "Cheriton Library",
+    "$$hashKey": "01B",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT19 4HB"
+    ],
+    "postcode": "CT19 4HB",
+    "latitude": "51.088341",
+    "longitude": "1.142508"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/chertsey-library",
+    "name": "Chertsey",
+    "$$hashKey": "01C",
+    "postcodes": [
+      "KT16 9BE"
+    ],
+    "postcode": "KT16 9BE",
+    "latitude": "51.388332",
+    "longitude": "-0.507000"
+  },
+  {
+    "url": "http://www.buckscc.gov.uk/leisure-and-culture/libraries/find-a-library/chesham-library/#.UtQOvrTTL3U",
+    "name": "Chesham library",
+    "$$hashKey": "01D",
+    "postcodes": [
+      "HP5 2JD"
+    ],
+    "postcode": "HP5 2JD",
+    "latitude": "51.706717",
+    "longitude": "-0.613088"
+  },
+  {
+    "url": "http://www.westsussex.gov.uk/leisure/libraries/find_a_library/chichester_library.aspx",
+    "name": "Chichester",
+    "$$hashKey": "01E",
+    "postcodes": [
+      "PO19 1QJ",
+      "PO19 1RQ"
+    ],
+    "postcode": "PO19 1QJ",
+    "latitude": "50.837663",
+    "longitude": "-0.781783"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/chinnor-library",
+    "name": "Chinnor",
+    "$$hashKey": "01F",
+    "postcodes": [
+      "OX39 4PU",
+      "OX1 1ND"
+    ],
+    "postcode": "OX39 4PU",
+    "latitude": "51.702328",
+    "longitude": "-0.909981"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/chipping-norton-library",
+    "name": "Chipping Norton",
+    "$$hashKey": "01G",
+    "postcodes": [
+      "OX7 5NP",
+      "OX1 1ND"
+    ],
+    "postcode": "OX7 5NP",
+    "latitude": "51.942889",
+    "longitude": "-1.544904"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=84&uprn=100062307578",
+    "name": "Cliftonville Library",
+    "$$hashKey": "01H",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT9 3JX"
+    ],
+    "postcode": "CT9 3JX",
+    "latitude": "51.384242",
+    "longitude": "1.418086"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/cobham-library",
+    "name": "Cobham",
+    "$$hashKey": "01I",
+    "postcodes": [
+      "KT11 2AE"
+    ],
+    "postcode": "KT11 2AE",
+    "latitude": "51.328085",
+    "longitude": "-0.408178"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=42&uprn=100062310918",
+    "name": "Coldharbour Library",
+    "$$hashKey": "01J",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA11 8AE"
+    ],
+    "postcode": "DA11 8AE",
+    "latitude": "51.431030",
+    "longitude": "0.347926"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_container.htm",
+    "name": "Container Library",
+    "$$hashKey": "01K",
+    "postcodes": [
+      "SL6 3GW",
+      "SL6 7UA",
+      "TW19 5NA",
+      "SL6 2LP",
+      "SL5 0QS",
+      "SL6 1RF"
+    ],
+    "postcode": "SL5 0QS",
+    "latitude": "51.395089",
+    "longitude": "-0.636336"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_cookham.htm",
+    "name": "Cookham",
+    "$$hashKey": "01L",
+    "postcodes": [
+      "SL6 9JF",
+      "SL6 1RF"
+    ],
+    "postcode": "SL6 9JF",
+    "latitude": "51.556394",
+    "longitude": "-0.725307"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/cowley-library",
+    "name": "Cowley",
+    "$$hashKey": "01M",
+    "postcodes": [
+      "OX4 2EZ",
+      "OX1 1ND"
+    ],
+    "postcode": "OX4 2EZ",
+    "latitude": "51.736456",
+    "longitude": "-1.212251"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_coxgreen.htm",
+    "name": "Cox Green",
+    "$$hashKey": "01N",
+    "postcodes": [
+      "SL6 3AX",
+      "SL6 1RF"
+    ],
+    "postcode": "SL6 3AX",
+    "latitude": "51.508438",
+    "longitude": "-0.755393"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=55&uprn=200003715387",
+    "name": "Coxheath Library",
+    "$$hashKey": "01O",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME17 4EH"
+    ],
+    "postcode": "ME17 4EH",
+    "latitude": "51.233363",
+    "longitude": "0.493149"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=100&uprn=010008666369",
+    "name": "Cranbrook Library",
+    "$$hashKey": "01P",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN17 3JT"
+    ],
+    "postcode": "TN17 3JT",
+    "latitude": "51.099344",
+    "longitude": "0.535469"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/cranleigh-library",
+    "name": "Cranleigh",
+    "$$hashKey": "01Q",
+    "postcodes": [
+      "GU6 8AE"
+    ],
+    "postcode": "GU6 8AE",
+    "latitude": "51.140608",
+    "longitude": "-0.487039"
+  },
+  {
+    "url": "http://www.westsussex.gov.uk/leisure/libraries/find_a_library/crawley_library.aspx",
+    "name": "Crawley",
+    "$$hashKey": "01R",
+    "postcodes": [
+      "RH10 6HG",
+      "PO19 1RQ"
+    ],
+    "postcode": "RH10 6HG",
+    "latitude": "51.113829",
+    "longitude": "-0.182182"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/crowborough/default.htm",
+    "name": "Crowborough",
+    "$$hashKey": "01S",
+    "postcodes": [
+      "TN6 1DH"
+    ],
+    "postcode": "TN6 1DH",
+    "latitude": "51.058619",
+    "longitude": "0.158920"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=14&uprn=200000533638",
+    "name": "Dartford Library",
+    "$$hashKey": "01T",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA1 1EU"
+    ],
+    "postcode": "DA1 1EU",
+    "latitude": "51.443102",
+    "longitude": "0.219055"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=43&uprn=100062310738",
+    "name": "Dashwood Library",
+    "$$hashKey": "01U",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA11 7LZ"
+    ],
+    "postcode": "DA11 7LZ",
+    "latitude": "51.433142",
+    "longitude": "0.361458"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_datchet.htm",
+    "name": "Datchet",
+    "$$hashKey": "01V",
+    "postcodes": [
+      "SL3 9ER",
+      "SL6 1RF"
+    ],
+    "postcode": "SL3 9ER",
+    "latitude": "51.483070",
+    "longitude": "-0.576654"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=28&uprn=100062285653",
+    "name": "Deal Library",
+    "$$hashKey": "01W",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT14 6ER"
+    ],
+    "postcode": "CT14 6ER",
+    "latitude": "51.223056",
+    "longitude": "1.403647"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/deddington-library",
+    "name": "Deddington",
+    "$$hashKey": "01X",
+    "postcodes": [
+      "OX15 0SH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX15 0SH",
+    "latitude": "51.982083",
+    "longitude": "-1.322618"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_dedworth.htm",
+    "name": "Dedworth",
+    "$$hashKey": "01Y",
+    "postcodes": [
+      "SL4 5PE",
+      "SL6 1RF"
+    ],
+    "postcode": "SL4 5PE",
+    "latitude": "51.479713",
+    "longitude": "-0.643924"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/didcot-library",
+    "name": "Didcot",
+    "$$hashKey": "01Z",
+    "postcodes": [
+      "OX11 8RU",
+      "OX1 1ND"
+    ],
+    "postcode": "OX11 8RU",
+    "latitude": "51.606014",
+    "longitude": "-1.247722"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/dittons-library",
+    "name": "Dittons",
+    "$$hashKey": "020",
+    "postcodes": [
+      "ME20 7TP"
+    ],
+    "postcode": "ME20 7TP",
+    "latitude": "51.294128",
+    "longitude": "0.470103"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/dorking-library",
+    "name": "Dorking",
+    "$$hashKey": "021",
+    "postcodes": [
+      "RH4 1UT"
+    ],
+    "postcode": "RH4 1UT",
+    "latitude": "51.233085",
+    "longitude": "-0.331245"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=23&uprn=010034874734",
+    "name": "Dover Library",
+    "$$hashKey": "022",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT16 1PH"
+    ],
+    "postcode": "CT16 1PH",
+    "latitude": "51.124756",
+    "longitude": "1.312490"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=214&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fdownham-library.aspx",
+    "name": "Downham Library",
+    "$$hashKey": "023",
+    "postcodes": [
+      "BR1 5EP"
+    ],
+    "postcode": "BR1 5EP",
+    "latitude": "51.426793",
+    "longitude": "0.009935"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=92&uprn=100061176485",
+    "name": "East Peckham Library",
+    "$$hashKey": "024",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN12 5AU"
+    ],
+    "postcode": "TN12 5AU",
+    "latitude": "51.212565",
+    "longitude": "0.385533"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/eastbourne/default.htm",
+    "name": "Eastbourne",
+    "$$hashKey": "025",
+    "postcodes": [
+      "BN21 4TL"
+    ],
+    "postcode": "BN21 4TL",
+    "latitude": "50.768673",
+    "longitude": "0.279285"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=63&uprn=010013772382",
+    "name": "Edenbridge Library",
+    "$$hashKey": "026",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN8 6BY"
+    ],
+    "postcode": "TN8 6BY"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/egham-library",
+    "name": "Egham",
+    "$$hashKey": "027",
+    "postcodes": [
+      "TW20 9EA"
+    ],
+    "postcode": "TW20 9EA",
+    "latitude": "51.431791",
+    "longitude": "-0.552755"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/information-services/enquiries-direct",
+    "name": "Enquiries Direct",
+    "$$hashKey": "028",
+    "postcodes": [
+      "GU1 4AL"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/epsom-library",
+    "name": "Epsom",
+    "$$hashKey": "029",
+    "postcodes": [
+      "KT19 8AG"
+    ],
+    "postcode": "KT19 8AG",
+    "latitude": "51.334292",
+    "longitude": "-0.266388"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/esher-library",
+    "name": "Esher",
+    "$$hashKey": "02A",
+    "postcodes": [
+      "KT10 9NS"
+    ],
+    "postcode": "KT10 9NS",
+    "latitude": "51.369655",
+    "longitude": "-0.363595"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_eton.htm",
+    "name": "Eton",
+    "$$hashKey": "02B",
+    "postcodes": [
+      "SL4 6AR",
+      "SL6 1RF"
+    ],
+    "postcode": "SL4 6AR",
+    "latitude": "51.489805",
+    "longitude": "-0.609559"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_eton_wick.htm",
+    "name": "Eton Wick",
+    "$$hashKey": "02C",
+    "postcodes": [
+      "SL4 6LT",
+      "SL6 1RF"
+    ],
+    "postcode": "SL4 6LT",
+    "latitude": "51.497213",
+    "longitude": "-0.636259"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ewell-library",
+    "name": "Ewell",
+    "$$hashKey": "02D",
+    "postcodes": [
+      "KT17 1UF"
+    ],
+    "postcode": "KT17 1UF",
+    "latitude": "51.350419",
+    "longitude": "-0.252683"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/ewell-court-library",
+    "name": "Ewell Court",
+    "$$hashKey": "02E",
+    "postcodes": [
+      "TN40 1PA"
+    ],
+    "postcode": "TN40 1PA",
+    "latitude": "50.841449",
+    "longitude": "0.488901"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/eynsham-library",
+    "name": "Eynsham",
+    "$$hashKey": "02F",
+    "postcodes": [
+      "OX29 4JS",
+      "OX1 1ND"
+    ],
+    "postcode": "OX29 4JS",
+    "latitude": "51.781755",
+    "longitude": "-1.374037"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/faringdon-library",
+    "name": "Faringdon",
+    "$$hashKey": "02G",
+    "postcodes": [
+      "SN7 7HY",
+      "OX1 1ND"
+    ],
+    "postcode": "SN7 7HY",
+    "latitude": "51.658418",
+    "longitude": "-1.586978"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/farnham-library",
+    "name": "Farnham",
+    "$$hashKey": "02H",
+    "postcodes": [
+      "GU9 7DR"
+    ],
+    "postcode": "GU9 7DR",
+    "latitude": "51.213698",
+    "longitude": "-0.802843"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=76&uprn=100062380361",
+    "name": "Faversham Library",
+    "$$hashKey": "02I",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME13 8DY"
+    ],
+    "postcode": "ME13 8DY",
+    "latitude": "51.314235",
+    "longitude": "0.892454"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=16&uprn=100062313906",
+    "name": "Fleetdown Library",
+    "$$hashKey": "02J",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA2 6JZ"
+    ],
+    "postcode": "DA2 6JZ",
+    "latitude": "51.435971",
+    "longitude": "0.245457"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=32&uprn=000050040690",
+    "name": "Folkestone Library",
+    "$$hashKey": "02K",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT20 1HD"
+    ],
+    "postcode": "CT20 1HD",
+    "latitude": "51.081794",
+    "longitude": "1.181036"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=164&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fForest-Hill-Library.aspx",
+    "name": "Forest Hill library",
+    "$$hashKey": "02L",
+    "postcodes": [
+      "SE23 3HZ"
+    ],
+    "postcode": "SE23 3HZ",
+    "latitude": "51.435309",
+    "longitude": "-0.056710"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/frimley-green-library",
+    "name": "Frimley Green",
+    "$$hashKey": "02M",
+    "postcodes": [
+      "GU16 6LQ"
+    ],
+    "postcode": "GU16 6LQ",
+    "latitude": "51.303210",
+    "longitude": "-0.726280"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/godalming-library",
+    "name": "Godalming",
+    "$$hashKey": "02N",
+    "postcodes": [
+      "GU7 1HT"
+    ],
+    "postcode": "GU7 1HT",
+    "latitude": "51.188972",
+    "longitude": "-0.607351"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/goring-library",
+    "name": "Goring",
+    "$$hashKey": "02O",
+    "postcodes": [
+      "RG8 9HA",
+      "RG8 9HA",
+      "OX1 1ND"
+    ],
+    "postcode": "RG8 9HA",
+    "latitude": "51.521242",
+    "longitude": "-1.136868"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=41&uprn=100062311356",
+    "name": "Gravesend Library",
+    "$$hashKey": "02P",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA12 1BE"
+    ],
+    "postcode": "DA12 1BE",
+    "latitude": "51.442084",
+    "longitude": "0.369834"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=17&uprn=200000537299",
+    "name": "Greenhithe Library",
+    "$$hashKey": "02Q",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA9 9EJ"
+    ],
+    "postcode": "DA9 9EJ",
+    "latitude": "51.450302",
+    "longitude": "0.289310"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/grove-library",
+    "name": "Grove",
+    "$$hashKey": "02R",
+    "postcodes": [
+      "OX12 7LB",
+      "OX12 7LB",
+      "OX1 1ND"
+    ],
+    "postcode": "OX12 7LB",
+    "latitude": "51.610817",
+    "longitude": "-1.424711"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/guildford-library",
+    "name": "Guildford",
+    "$$hashKey": "02S",
+    "postcodes": [
+      "GU1 4AL"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=93&uprn=200000967219",
+    "name": "Hadlow Library",
+    "$$hashKey": "02T",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN11 0EH"
+    ],
+    "postcode": "TN11 0EH",
+    "latitude": "51.224476",
+    "longitude": "0.338139"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=64&uprn=100062316837",
+    "name": "Hartley Library",
+    "$$hashKey": "02U",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA3 8EL"
+    ],
+    "postcode": "DA3 8EL",
+    "latitude": "51.383734",
+    "longitude": "0.305821"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/haslemere-library",
+    "name": "Haslemere",
+    "$$hashKey": "02V",
+    "postcodes": [
+      "GU27 1HP"
+    ],
+    "postcode": "GU27 1HP"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/hastings/default.htm",
+    "name": "Hastings",
+    "$$hashKey": "02W",
+    "postcodes": [
+      "TN34 1HE"
+    ],
+    "postcode": "TN34 1HE",
+    "latitude": "50.855277",
+    "longitude": "0.576158"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=101&uprn=100062553218",
+    "name": "Hawkhurst Library",
+    "$$hashKey": "02X",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN18 4EY"
+    ],
+    "postcode": "TN18 4EY",
+    "latitude": "51.047215",
+    "longitude": "0.511731"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=56&uprn=200003699941",
+    "name": "Headcorn Library",
+    "$$hashKey": "02Y",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN27 9QT"
+    ],
+    "postcode": "TN27 9QT",
+    "latitude": "51.169853",
+    "longitude": "0.621324"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/headington-library",
+    "name": "Headington",
+    "$$hashKey": "02Z",
+    "postcodes": [
+      "OX3 9HY",
+      "OX1 1ND"
+    ],
+    "postcode": "OX3 9HY",
+    "latitude": "51.762899",
+    "longitude": "-1.209487"
+  },
+  {
+    "url": "http://www.calderdale.gov.uk/leisure/libraries/branches/hebdenbridge.html",
+    "name": "Hebden Bridge library",
+    "$$hashKey": "030",
+    "postcodes": [
+      "HX7 8EP",
+      "HX1 1UJ"
+    ],
+    "postcode": "HX7 8EP",
+    "latitude": "53.741358",
+    "longitude": "-2.012184"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/henley-library",
+    "name": "Henley",
+    "$$hashKey": "031",
+    "postcodes": [
+      "RG9 2DH",
+      "OX1 1ND"
+    ],
+    "postcode": "RG9 2DH",
+    "latitude": "51.540124",
+    "longitude": "-0.905875"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=10&uprn=100062302754",
+    "name": "Herne Bay Library",
+    "$$hashKey": "032",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT6 5JY"
+    ],
+    "postcode": "CT6 5JY",
+    "latitude": "51.371162",
+    "longitude": "1.127183"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/hersham-library",
+    "name": "Hersham",
+    "$$hashKey": "033",
+    "postcodes": [
+      "KT12 4RF"
+    ],
+    "postcode": "KT12 4RF",
+    "latitude": "51.369098",
+    "longitude": "-0.395466"
+  },
+  {
+    "url": "http://www.buckscc.gov.uk/leisure-and-culture/libraries/find-a-library/high-wycombe-library/#.UtQOUbTTL3U",
+    "name": "High Wycombe library",
+    "$$hashKey": "034",
+    "postcodes": [
+      "HP11 2DH"
+    ],
+    "postcode": "HP11 2DH",
+    "latitude": "51.630716",
+    "longitude": "-0.755083"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=44&uprn=100062390201",
+    "name": "Higham Library",
+    "$$hashKey": "035",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME3 7BS"
+    ],
+    "postcode": "ME3 7BS",
+    "latitude": "51.415155",
+    "longitude": "0.458516"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=94&uprn=100062544675",
+    "name": "Hildenborough Library",
+    "$$hashKey": "036",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN11 9HX"
+    ],
+    "postcode": "TN11 9HX",
+    "latitude": "51.216960",
+    "longitude": "0.240596"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=45&uprn=100062311070",
+    "name": "Hive House Library",
+    "$$hashKey": "037",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA11 9DE"
+    ],
+    "postcode": "DA11 9DE",
+    "latitude": "51.446246",
+    "longitude": "0.328629"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_home_service.htm",
+    "name": "Home Library Service",
+    "$$hashKey": "038",
+    "postcodes": [
+      "SL6 1RF"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/hook-norton-library",
+    "name": "Hook Norton",
+    "$$hashKey": "039",
+    "postcodes": [
+      "OX15 5NH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX15 5NH",
+    "latitude": "51.994978",
+    "longitude": "-1.484719"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/horley-library",
+    "name": "Horley",
+    "$$hashKey": "03A",
+    "postcodes": [
+      "RH6 7AG"
+    ],
+    "postcode": "RH6 7AG",
+    "latitude": "51.172620",
+    "longitude": "-0.165622"
+  },
+  {
+    "url": "http://www.westsussex.gov.uk/leisure/libraries/find_a_library/horsham_library.aspx",
+    "name": "Horsham",
+    "$$hashKey": "03B",
+    "postcodes": [
+      "RH12 1PJ",
+      "PO19 1RQ"
+    ],
+    "postcode": "RH12 1PJ",
+    "latitude": "51.062143",
+    "longitude": "-0.332743"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/horsley-library",
+    "name": "Horsley",
+    "$$hashKey": "03C",
+    "postcodes": [
+      "KT24 6QR"
+    ],
+    "postcode": "KT24 6QR",
+    "latitude": "51.276787",
+    "longitude": "-0.435243"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=35&uprn=000050018994",
+    "name": "Hythe Library",
+    "$$hashKey": "03D",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT21 6BQ"
+    ],
+    "postcode": "CT21 6BQ",
+    "latitude": "51.069486",
+    "longitude": "1.082798"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=65&uprn=100062550165",
+    "name": "Kemsing Library",
+    "$$hashKey": "03E",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN15 6QD"
+    ],
+    "postcode": "TN15 6QD",
+    "latitude": "51.307683",
+    "longitude": "0.221797"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/kennington-library",
+    "name": "Kennington",
+    "$$hashKey": "03F",
+    "postcodes": [
+      "OX1 5PG",
+      "OX1 5PG",
+      "OX1 1ND"
+    ],
+    "postcode": "OX1 5PG",
+    "latitude": "51.718118",
+    "longitude": "-1.244460"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=275&uprn=010014309203",
+    "name": "Kent History and Library Centre",
+    "$$hashKey": "03G",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME14 1LQ"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/kidlington-library",
+    "name": "Kidlington",
+    "$$hashKey": "03H",
+    "postcodes": [
+      "OX5 2BP",
+      "OX1 1ND"
+    ],
+    "postcode": "OX5 2BP",
+    "latitude": "51.821964",
+    "longitude": "-1.288385"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=46&uprn=100062312829",
+    "name": "King's Farm Library",
+    "$$hashKey": "03I",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA12 5HR"
+    ],
+    "postcode": "DA12 5HR",
+    "latitude": "51.426538",
+    "longitude": "0.376711"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/knaphill-library",
+    "name": "Knaphill",
+    "$$hashKey": "03J",
+    "postcodes": [
+      "GU21 2PD"
+    ],
+    "postcode": "GU21 2PD",
+    "latitude": "51.318483",
+    "longitude": "-0.615662"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=95&uprn=100062389622",
+    "name": "Larkfield Library",
+    "$$hashKey": "03K",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME20 6QW"
+    ],
+    "postcode": "ME20 6QW",
+    "latitude": "51.299753",
+    "longitude": "0.439446"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/leatherhead-library",
+    "name": "Leatherhead",
+    "$$hashKey": "03L",
+    "postcodes": [
+      "KT22 8DP"
+    ],
+    "postcode": "KT22 8DP",
+    "latitude": "51.294030",
+    "longitude": "-0.328806"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=4&uprn=200003727094",
+    "name": "Lenham Library",
+    "$$hashKey": "03M",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME17 2PQ"
+    ],
+    "postcode": "ME17 2PQ",
+    "latitude": "51.237374",
+    "longitude": "0.718891"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/lewes/default.htm",
+    "name": "Lewes",
+    "$$hashKey": "03N",
+    "postcodes": [
+      "BN7 2LZ"
+    ],
+    "postcode": "BN7 2LZ",
+    "latitude": "50.872934",
+    "longitude": "0.013547"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=103&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fLewisham-Library.aspx",
+    "name": "Lewisham Library",
+    "$$hashKey": "03O",
+    "postcodes": [
+      "SE13 6LG"
+    ],
+    "postcode": "SE13 6LG",
+    "latitude": "51.459274",
+    "longitude": "-0.011657"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/lightwater-library",
+    "name": "Lightwater",
+    "$$hashKey": "03P",
+    "postcodes": [
+      "GU18 5SB"
+    ],
+    "postcode": "GU18 5SB",
+    "latitude": "51.351753",
+    "longitude": "-0.665869"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/lingfield-library",
+    "name": "Lingfield",
+    "$$hashKey": "03Q",
+    "postcodes": [
+      "RH7 6HA"
+    ],
+    "postcode": "RH7 6HA",
+    "latitude": "51.177166",
+    "longitude": "-0.015519"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/littlemore-library",
+    "name": "Littlemore",
+    "$$hashKey": "03R",
+    "postcodes": [
+      "OX4 5JY",
+      "OX1 1ND"
+    ],
+    "postcode": "OX4 5JY"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=18&uprn=200000538019",
+    "name": "Longfield Library",
+    "$$hashKey": "03S",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA3 7QT"
+    ],
+    "postcode": "DA3 7QT",
+    "latitude": "51.399308",
+    "longitude": "0.299531"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=36&uprn=000050001854",
+    "name": "Lydd Library",
+    "$$hashKey": "03T",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN29 9HN"
+    ],
+    "postcode": "TN29 9HN",
+    "latitude": "50.949192",
+    "longitude": "0.906551"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=37&uprn=000050021163",
+    "name": "Lyminge Library",
+    "$$hashKey": "03U",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT18 8HS"
+    ],
+    "postcode": "CT18 8HS",
+    "latitude": "51.127422",
+    "longitude": "1.092342"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=57&uprn=200003697524",
+    "name": "Madginford Library",
+    "$$hashKey": "03V",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME15 8LH"
+    ],
+    "postcode": "ME15 8LH",
+    "latitude": "51.264494",
+    "longitude": "0.564992"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_maidenhead.htm",
+    "name": "Maidenhead",
+    "$$hashKey": "03W",
+    "postcodes": [
+      "SL6 1QU",
+      "SL6 1RF"
+    ],
+    "postcode": "SL6 1QU",
+    "latitude": "51.522204",
+    "longitude": "-0.717714"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203",
+    "name": "Maidstone library",
+    "$$hashKey": "03X",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME14 1LQ"
+    ],
+    "postcode": null
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=93&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fmanor-house-library.aspx",
+    "name": "Manor House Library",
+    "$$hashKey": "03Y",
+    "postcodes": null,
+    "postcode": null
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=58&uprn=200003710862",
+    "name": "Marden Library",
+    "$$hashKey": "03Z",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN12 9DP"
+    ],
+    "postcode": "TN12 9DP",
+    "latitude": "51.173385",
+    "longitude": "0.496880"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=81&uprn=100062305105",
+    "name": "Margate Library",
+    "$$hashKey": "040",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT9 1RE"
+    ],
+    "postcode": "CT9 1RE",
+    "latitude": "51.387623",
+    "longitude": "1.382197"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=47&uprn=100062312706",
+    "name": "Marling Cross Library",
+    "$$hashKey": "041",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA12 5TY"
+    ],
+    "postcode": "DA12 5TY",
+    "latitude": "51.411831",
+    "longitude": "0.383943"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=48&uprn=100062313205",
+    "name": "Meopham Library",
+    "$$hashKey": "042",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA13 0AH"
+    ],
+    "postcode": "DA13 0AH",
+    "latitude": "51.368909",
+    "longitude": "0.359773"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/merstham-library",
+    "name": "Merstham",
+    "$$hashKey": "043",
+    "postcodes": [
+      "RH1 3QB"
+    ],
+    "postcode": "RH1 3QB",
+    "latitude": "51.258265",
+    "longitude": "-0.145320"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=77&uprn=100062378600",
+    "name": "Minster-in-Sheppey Library",
+    "$$hashKey": "044",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME12 3NP"
+    ],
+    "postcode": "ME12 3NP",
+    "latitude": "51.420083",
+    "longitude": "0.804250"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=125&uprn=100062284041",
+    "name": "Minster-in-Thanet Library",
+    "$$hashKey": "045",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT12 4EA"
+    ],
+    "postcode": "CT12 4EA",
+    "latitude": "51.334571",
+    "longitude": "1.313312"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/molesey-library",
+    "name": "Molesey",
+    "$$hashKey": "046",
+    "postcodes": [
+      "KT8 2HZ"
+    ],
+    "postcode": "KT8 2HZ",
+    "latitude": "51.402056",
+    "longitude": "-0.362340"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=272&pcd=ME19%204AL",
+    "name": "Music and Drama Service",
+    "$$hashKey": "047",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME19 4AL"
+    ],
+    "postcode": "ME19 4AL",
+    "latitude": "51.275201",
+    "longitude": "0.398054"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/neithrop-library",
+    "name": "Neithrop",
+    "$$hashKey": "048",
+    "postcodes": [
+      "OX16 0AT",
+      "OX1 1ND"
+    ],
+    "postcode": "OX16 0AT",
+    "latitude": "52.060684",
+    "longitude": "-1.353434"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=66&uprn=010035182341",
+    "name": "New Ash Green Library",
+    "$$hashKey": "049",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA3 8QT"
+    ],
+    "postcode": "DA3 8QT",
+    "latitude": "51.366937",
+    "longitude": "0.305264"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/new-haw-community-library",
+    "name": "New Haw",
+    "$$hashKey": "04A",
+    "postcodes": [
+      "KT15 3HA"
+    ],
+    "postcode": "KT15 3HA",
+    "latitude": "51.348855",
+    "longitude": "-0.503500"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=38&uprn=000050003374",
+    "name": "New Romney Library",
+    "$$hashKey": "04B",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN28 8AU"
+    ],
+    "postcode": "TN28 8AU",
+    "latitude": "50.986472",
+    "longitude": "0.941542"
+  },
+  {
+    "url": "https://www.newcastle.gov.uk/your-council-and-democracy/contact-the-council",
+    "name": "Newcastle City Library",
+    "$$hashKey": "04C",
+    "postcodes": [
+      "NE1 8AX"
+    ],
+    "postcode": "NE1 8AX",
+    "latitude": "54.974918",
+    "longitude": "-1.610404"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=86&uprn=100062284273",
+    "name": "Newington Library",
+    "$$hashKey": "04D",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT12 6NB"
+    ],
+    "postcode": "CT12 6NB",
+    "latitude": "51.350290",
+    "longitude": "1.392589"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/north-leigh-library",
+    "name": "North Leigh",
+    "$$hashKey": "04E",
+    "postcodes": [
+      "OX29 6SA",
+      "OX1 1ND"
+    ],
+    "postcode": "OX29 6SA",
+    "latitude": "51.813577",
+    "longitude": "-1.436684"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/old-marston-library",
+    "name": "Old Marston",
+    "$$hashKey": "04F",
+    "postcodes": [
+      "OX3 0PH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX3 0PH",
+    "latitude": "51.771904",
+    "longitude": "-1.236070"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_oldwindsor.htm",
+    "name": "Old Windsor",
+    "$$hashKey": "04G",
+    "postcodes": [
+      "SL4 2RN",
+      "SL6 1RF"
+    ],
+    "postcode": "SL4 2RN",
+    "latitude": "51.464135",
+    "longitude": "-0.585046"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=67&uprn=100062621712",
+    "name": "Otford Library",
+    "$$hashKey": "04H",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN14 5PQ"
+    ],
+    "postcode": "TN14 5PQ",
+    "latitude": "51.313105",
+    "longitude": "0.188911"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/oxford-central-library",
+    "name": "Oxford Central",
+    "$$hashKey": "04I",
+    "postcodes": [
+      "OX1 1DJ",
+      "OX1 1ND"
+    ],
+    "postcode": "OX1 1DJ",
+    "latitude": "51.751444",
+    "longitude": "-1.260549"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/oxted-library",
+    "name": "Oxted",
+    "$$hashKey": "04J",
+    "postcodes": [
+      "RH8 0BQ"
+    ],
+    "postcode": "RH8 0BQ",
+    "latitude": "51.257584",
+    "longitude": "0.000281"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=103&uprn=100062545691",
+    "name": "Paddock Wood Library",
+    "$$hashKey": "04K",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN12 6EN"
+    ],
+    "postcode": "TN12 6EN",
+    "latitude": "51.180769",
+    "longitude": "0.388800"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=104&uprn=010008663884",
+    "name": "Pembury Library",
+    "$$hashKey": "04L",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN2 4HS"
+    ],
+    "postcode": "TN2 4HS",
+    "latitude": "51.148802",
+    "longitude": "0.328792"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=78&uprn=200002531812",
+    "name": "Queenborough Library",
+    "$$hashKey": "04M",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME11 5AY"
+    ],
+    "postcode": "ME11 5AY",
+    "latitude": "51.416021",
+    "longitude": "0.747547"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=87&uprn=200002513204",
+    "name": "Ramsgate Library",
+    "$$hashKey": "04N",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT11 9AY"
+    ],
+    "postcode": "CT11 9AY",
+    "latitude": "51.334242",
+    "longitude": "1.415512"
+  },
+  {
+    "url": "http://www.calderdale.gov.uk/leisure/libraries/branches/rastrick.html",
+    "name": "Rastrick library",
+    "$$hashKey": "04O",
+    "postcodes": [
+      "HD6 3NE",
+      "HX1 1UJ"
+    ],
+    "postcode": "HD6 3NE",
+    "latitude": "53.689625",
+    "longitude": "-1.793583"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/redhill-library",
+    "name": "Redhill",
+    "$$hashKey": "04P",
+    "postcodes": [
+      "RH1 1NN"
+    ],
+    "postcode": "RH1 1NN",
+    "latitude": "51.240956",
+    "longitude": "-0.167792"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/reigate-library",
+    "name": "Reigate",
+    "$$hashKey": "04Q",
+    "postcodes": [
+      "RH2 7RP"
+    ],
+    "postcode": "RH2 7RP",
+    "latitude": "51.236631",
+    "longitude": "-0.203792"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=68&uprn=100062547772",
+    "name": "Riverhead Library",
+    "$$hashKey": "04R",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN13 2BU"
+    ],
+    "postcode": "TN13 2BU",
+    "latitude": "51.284783",
+    "longitude": "0.169725"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=49&uprn=100062668779",
+    "name": "Riverview Park Library",
+    "$$hashKey": "04S",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA12 4NG"
+    ],
+    "postcode": "DA12 4NG",
+    "latitude": "51.418356",
+    "longitude": "0.393891"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=105&uprn=010000063884",
+    "name": "Rusthall Library",
+    "$$hashKey": "04T",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN4 8RZ"
+    ],
+    "postcode": "TN4 8RZ",
+    "latitude": "51.135221",
+    "longitude": "0.227230"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=39&uprn=000050027179",
+    "name": "Sandgate Library",
+    "$$hashKey": "04U",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT20 3RR"
+    ],
+    "postcode": "CT20 3RR",
+    "latitude": "51.074016",
+    "longitude": "1.149033"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=30&uprn=010034883329",
+    "name": "Sandwich Library",
+    "$$hashKey": "04V",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT13 9DA"
+    ],
+    "postcode": "CT13 9DA",
+    "latitude": "51.275445",
+    "longitude": "1.339629"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=70&uprn=050002019523",
+    "name": "Seal Library",
+    "$$hashKey": "04W",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN15 0AL"
+    ],
+    "postcode": "TN15 0AL",
+    "latitude": "51.288807",
+    "longitude": "0.220355"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=62&uprn=100062546713",
+    "name": "Sevenoaks Library",
+    "$$hashKey": "04X",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN13 1LQ"
+    ],
+    "postcode": "TN13 1LQ",
+    "latitude": "51.271353",
+    "longitude": "0.194969"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=79&uprn=010035063334",
+    "name": "Sheerness Library",
+    "$$hashKey": "04Y",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME12 1NL"
+    ],
+    "postcode": "ME12 1NL",
+    "latitude": "51.440651",
+    "longitude": "0.761143"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/shepperton-library",
+    "name": "Shepperton",
+    "$$hashKey": "04Z",
+    "postcodes": [
+      "TW17 9AU"
+    ],
+    "postcode": "TW17 9AU",
+    "latitude": "51.393113",
+    "longitude": "-0.448630"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=59&uprn=200003713239",
+    "name": "Shepway Library",
+    "$$hashKey": "050",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME15 7LW"
+    ],
+    "postcode": "ME15 7LW",
+    "latitude": "51.252792",
+    "longitude": "0.545666"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=106&uprn=010008669614",
+    "name": "Sherwood Library",
+    "$$hashKey": "051",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN2 3LZ"
+    ],
+    "postcode": "TN2 3LZ",
+    "latitude": "51.145096",
+    "longitude": "0.287356"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=107&uprn=100062555380",
+    "name": "Showfields Library",
+    "$$hashKey": "052",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN2 5PR"
+    ],
+    "postcode": "TN2 5PR",
+    "latitude": "51.121063",
+    "longitude": "0.248971"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=74&uprn=200002532058",
+    "name": "Sittingbourne Library",
+    "$$hashKey": "053",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME10 4AH"
+    ],
+    "postcode": "ME10 4AH",
+    "latitude": "51.339011",
+    "longitude": "0.735386"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=96&uprn=100062628683",
+    "name": "Snodland Library",
+    "$$hashKey": "054",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME6 5DA"
+    ],
+    "postcode": "ME6 5DA",
+    "latitude": "51.329903",
+    "longitude": "0.442769"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/sonning-common-library",
+    "name": "Sonning Common",
+    "$$hashKey": "055",
+    "postcodes": [
+      "RG4 9RH",
+      "RG4 9RH",
+      "OX1 1ND"
+    ],
+    "postcode": "RG4 9RH",
+    "latitude": "51.515394",
+    "longitude": "-0.980513"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=108&uprn=100062585378",
+    "name": "Southborough Library",
+    "$$hashKey": "056",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN4 0BA"
+    ],
+    "postcode": "TN4 0BA",
+    "latitude": "51.154694",
+    "longitude": "0.262289"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=29&uprn=100062288028",
+    "name": "St. Margaret's-at-Cliffe Library",
+    "$$hashKey": "057",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT15 6BB"
+    ],
+    "postcode": "CT15 6BB",
+    "latitude": "51.160661",
+    "longitude": "1.378950"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/staines-library",
+    "name": "Staines",
+    "$$hashKey": "058",
+    "postcodes": [
+      "TW18 4PG"
+    ],
+    "postcode": "TW18 4PG",
+    "latitude": "51.432488",
+    "longitude": "-0.510092"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=5&uprn=010012858731",
+    "name": "Stanhope Library",
+    "$$hashKey": "059",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN23 5TH"
+    ],
+    "postcode": "TN23 5TH",
+    "latitude": "51.130919",
+    "longitude": "0.852876"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/stanwell-community-library-and-information-centre",
+    "name": "Stanwell",
+    "$$hashKey": "05A",
+    "postcodes": [
+      "TW19 7HF"
+    ],
+    "postcode": "TW19 7HF",
+    "latitude": "51.452347",
+    "longitude": "-0.475422"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=60&uprn=010014314075",
+    "name": "Staplehurst Library",
+    "$$hashKey": "05B",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN12 0LA"
+    ],
+    "postcode": "TN12 0LA",
+    "latitude": "51.160506",
+    "longitude": "0.551881"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/stoneleigh-library",
+    "name": "Stoneleigh",
+    "$$hashKey": "05C",
+    "postcodes": [
+      "KT17 2JA"
+    ],
+    "postcode": "KT17 2JA",
+    "latitude": "51.363435",
+    "longitude": "-0.247519"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/stonesfield-library",
+    "name": "Stonesfield",
+    "$$hashKey": "05D",
+    "postcodes": [
+      "OX29 8EF",
+      "OX1 1ND"
+    ],
+    "postcode": "OX29 8EF",
+    "latitude": "51.854978",
+    "longitude": "-1.428283"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=11&uprn=200000682703",
+    "name": "Sturry Library",
+    "$$hashKey": "05E",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT2 0BA"
+    ],
+    "postcode": "CT2 0BA",
+    "latitude": "51.299435",
+    "longitude": "1.122604"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=19&uprn=100062317391",
+    "name": "Summerhouse Drive Library",
+    "$$hashKey": "05F",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA5 2EE"
+    ],
+    "postcode": "DA5 2EE",
+    "latitude": "51.426595",
+    "longitude": "0.166897"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/summertown-library",
+    "name": "Summertown",
+    "$$hashKey": "05G",
+    "postcodes": [
+      "OX2 7JN",
+      "OX1 1ND"
+    ],
+    "postcode": "OX2 7JN",
+    "latitude": "51.778004",
+    "longitude": "-1.267682"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/sunbury-library",
+    "name": "Sunbury",
+    "$$hashKey": "05H",
+    "postcodes": [
+      "TW16 7AB"
+    ],
+    "postcode": "TW16 7AB",
+    "latitude": "51.419758",
+    "longitude": "-0.420300"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_sunninghill.htm",
+    "name": "Sunninghill",
+    "$$hashKey": "05I",
+    "postcodes": [
+      "SL5 7AA",
+      "SL6 1RF"
+    ],
+    "postcode": "SL5 7AA",
+    "latitude": "51.401990",
+    "longitude": "-0.656142"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=20&uprn=200000535230",
+    "name": "Sutton-at-Hone Library",
+    "$$hashKey": "05J",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA4 9HQ"
+    ],
+    "postcode": "DA4 9HQ",
+    "latitude": "51.408920",
+    "longitude": "0.237416"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=12&uprn=100062301035",
+    "name": "Swalecliffe Library",
+    "$$hashKey": "05K",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT5 2LX"
+    ],
+    "postcode": "CT5 2LX",
+    "latitude": "51.360818",
+    "longitude": "1.065980"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=131&uprn=010002021803",
+    "name": "Swan Valley Library",
+    "$$hashKey": "05L",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA10 0BB"
+    ],
+    "postcode": "DA10 0BB",
+    "latitude": "51.442159",
+    "longitude": "0.313354"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=71&uprn=100062276749",
+    "name": "Swanley Library",
+    "$$hashKey": "05M",
+    "postcodes": [
+      "ME14 1LQ",
+      "BR8 7AE"
+    ],
+    "postcode": "BR8 7AE",
+    "latitude": "51.397148",
+    "longitude": "0.172880"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/tattenhams-community-library",
+    "name": "Tattenhams",
+    "$$hashKey": "05N",
+    "postcodes": [
+      "KT18 5RA"
+    ],
+    "postcode": "KT18 5RA",
+    "latitude": "51.308612",
+    "longitude": "-0.238301"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=22&uprn=200000531818",
+    "name": "Temple Hill Library",
+    "$$hashKey": "05O",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA1 5HY"
+    ],
+    "postcode": "DA1 5HY",
+    "latitude": "51.451005",
+    "longitude": "0.227714"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=6&uprn=100062567414",
+    "name": "Tenterden Library",
+    "$$hashKey": "05P",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN30 6HP"
+    ],
+    "postcode": "TN30 6HP",
+    "latitude": "51.067669",
+    "longitude": "0.684336"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=80&uprn=200002533074",
+    "name": "Teynham Library",
+    "$$hashKey": "05Q",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME9 9QJ"
+    ],
+    "postcode": "ME9 9QJ",
+    "latitude": "51.328623",
+    "longitude": "0.797058"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/thame-library",
+    "name": "Thame",
+    "$$hashKey": "05R",
+    "postcodes": [
+      "OX9 3BH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX9 3BH",
+    "latitude": "51.747849",
+    "longitude": "-0.976592"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=23&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fThe-Library-at-Deptford-Lounge.aspx",
+    "name": "The Library at Deptford Lounge",
+    "$$hashKey": "05S",
+    "postcodes": null,
+    "postcode": null
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=89&uprn=100062593959",
+    "name": "Tonbridge Library",
+    "$$hashKey": "05T",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN9 1TG"
+    ],
+    "postcode": "TN9 1TG",
+    "latitude": "51.192578",
+    "longitude": "0.271374"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=97&uprn=200000961894",
+    "name": "Tonbridge North Library",
+    "$$hashKey": "05U",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN10 3NP"
+    ],
+    "postcode": "TN10 3NP",
+    "latitude": "51.215947",
+    "longitude": "0.280900"
+  },
+  {
+    "url": "https://www.lewisham.gov.uk/contact-us/Pages/contact.aspx?directoryid=93&source=%2fmyservices%2flibraries%2fbranches%2fPages%2fmanor-house-library.aspx",
+    "name": "Torridon Road Library",
+    "$$hashKey": "05V",
+    "postcodes": [
+      "SE6 1RQ"
+    ],
+    "postcode": "SE6 1RQ",
+    "latitude": "51.443658",
+    "longitude": "-0.001816"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=99&uprn=100062541606",
+    "name": "Tunbridge Wells Library",
+    "$$hashKey": "05W",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN1 1NS"
+    ],
+    "postcode": "TN1 1NS",
+    "latitude": "51.133059",
+    "longitude": "0.263991"
+  },
+  {
+    "url": "http://www.eastsussex.gov.uk/libraries/find/uckfield/default.htm",
+    "name": "Uckfield",
+    "$$hashKey": "05X",
+    "postcodes": [
+      "TN22 1AR"
+    ],
+    "postcode": "TN22 1AR",
+    "latitude": "50.972006",
+    "longitude": "0.095999"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=50&uprn=100062313206",
+    "name": "Vigo Library",
+    "$$hashKey": "05Y",
+    "postcodes": [
+      "ME14 1LQ",
+      "DA13 0TD"
+    ],
+    "postcode": "DA13 0TD",
+    "latitude": "51.330445",
+    "longitude": "0.359261"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/virginia-water-community-library/virginia-water-community-library-location-and-access",
+    "name": "Virginia Water",
+    "$$hashKey": "05Z",
+    "postcodes": [
+      "GU25 4AD"
+    ],
+    "postcode": "GU25 4AD",
+    "latitude": "51.401340",
+    "longitude": "-0.564268"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/wallingford-library",
+    "name": "Wallingford",
+    "$$hashKey": "060",
+    "postcodes": [
+      "OX10 0DB",
+      "OX1 1ND"
+    ],
+    "postcode": "OX10 0DB",
+    "latitude": "51.601021",
+    "longitude": "-1.127603"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/walton-library",
+    "name": "Walton",
+    "$$hashKey": "061",
+    "postcodes": [
+      "KT12 1GH"
+    ],
+    "postcode": "KT12 1GH",
+    "latitude": "51.385115",
+    "longitude": "-0.420086"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/wantage-library",
+    "name": "Wantage",
+    "$$hashKey": "062",
+    "postcodes": [
+      "OX12 7BB",
+      "OX1 1ND"
+    ],
+    "postcode": "OX12 7BB",
+    "latitude": "51.589575",
+    "longitude": "-1.424070"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/warlingham-community-library",
+    "name": "Warlingham",
+    "$$hashKey": "063",
+    "postcodes": [
+      "CR6 9NF"
+    ],
+    "postcode": "CR6 9NF",
+    "latitude": "51.310107",
+    "longitude": "-0.058143"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/watlington-library",
+    "name": "Watlington",
+    "$$hashKey": "064",
+    "postcodes": [
+      "OX49 5PZ",
+      "OX1 1ND"
+    ],
+    "postcode": "OX49 5PZ",
+    "latitude": "51.645355",
+    "longitude": "-1.006087"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/west-byfleet-library",
+    "name": "West Byfleet",
+    "$$hashKey": "065",
+    "postcodes": [
+      "KT14 6NY"
+    ],
+    "postcode": "KT14 6NY",
+    "latitude": "51.337851",
+    "longitude": "-0.504375"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=72&uprn=100062550164",
+    "name": "West Kingsdown Library",
+    "$$hashKey": "066",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN15 6BZ"
+    ],
+    "postcode": "TN15 6BZ",
+    "latitude": "51.344345",
+    "longitude": "0.258206"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=98&uprn=200000959831",
+    "name": "West Malling Library",
+    "$$hashKey": "067",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME19 6QR"
+    ],
+    "postcode": "ME19 6QR",
+    "latitude": "51.295172",
+    "longitude": "0.408749"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=73&uprn=100062551577",
+    "name": "Westerham Library",
+    "$$hashKey": "068",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN16 1BD"
+    ],
+    "postcode": "TN16 1BD",
+    "latitude": "51.267984",
+    "longitude": "0.071923"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=88&uprn=100062304862",
+    "name": "Westgate Library",
+    "$$hashKey": "069",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT8 8BP"
+    ],
+    "postcode": "CT8 8BP",
+    "latitude": "51.378261",
+    "longitude": "1.339206"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/weybridge-library",
+    "name": "Weybridge",
+    "$$hashKey": "06A",
+    "postcodes": [
+      "KT13 8DE"
+    ],
+    "postcode": "KT13 8DE",
+    "latitude": "51.372227",
+    "longitude": "-0.459810"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/wheatley-library",
+    "name": "Wheatley",
+    "$$hashKey": "06B",
+    "postcodes": [
+      "OX33 1XP",
+      "OX1 1ND"
+    ],
+    "postcode": "OX33 1XP",
+    "latitude": "51.746660",
+    "longitude": "-1.136549"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=13&uprn=100062300410",
+    "name": "Whitstable Library",
+    "$$hashKey": "06C",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT5 1DB"
+    ],
+    "postcode": "CT5 1DB",
+    "latitude": "51.356070",
+    "longitude": "1.024448"
+  },
+  {
+    "url": "http://www.rbwm.gov.uk/web/libraries_windsor.htm",
+    "name": "Windsor",
+    "$$hashKey": "06D",
+    "postcodes": [
+      "SL4 1ER",
+      "SL6 1RF"
+    ],
+    "postcode": "SL4 1ER",
+    "latitude": "51.480573",
+    "longitude": "-0.609077"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/witney-library",
+    "name": "Witney",
+    "$$hashKey": "06E",
+    "postcodes": [
+      "OX28 6JH",
+      "OX1 1ND"
+    ],
+    "postcode": "OX28 6JH",
+    "latitude": "51.786557",
+    "longitude": "-1.487341"
+  },
+  {
+    "url": "http://www.surreycc.gov.uk/people-and-community/libraries/libraries-in-surrey/libraries-and-opening-times/woking-library",
+    "name": "Woking",
+    "$$hashKey": "06F",
+    "postcodes": [
+      "GU21 6EP"
+    ],
+    "postcode": "GU21 6EP",
+    "latitude": "51.320272",
+    "longitude": "-0.559008"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=40&uprn=000050043728",
+    "name": "Wood Avenue Library",
+    "$$hashKey": "06G",
+    "postcodes": [
+      "ME14 1LQ",
+      "CT19 6HS"
+    ],
+    "postcode": "CT19 6HS",
+    "latitude": "51.093012",
+    "longitude": "1.183319"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/woodcote-library",
+    "name": "Woodcote",
+    "$$hashKey": "06H",
+    "postcodes": [
+      "RG8 0QY",
+      "OX1 1ND"
+    ],
+    "postcode": "RG8 0QY",
+    "latitude": "51.533408",
+    "longitude": "-1.067507"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/woodstock-library",
+    "name": "Woodstock",
+    "$$hashKey": "06I",
+    "postcodes": [
+      "OX20 1JQ",
+      "OX1 1ND"
+    ],
+    "postcode": "OX20 1JQ",
+    "latitude": "51.847456",
+    "longitude": "-1.352628"
+  },
+  {
+    "url": "http://www.westsussex.gov.uk/leisure/libraries/find_a_library/worthing_library.aspx",
+    "name": "Worthing",
+    "$$hashKey": "06J",
+    "postcodes": [
+      "BN11 1HD",
+      "PO19 1RQ"
+    ],
+    "postcode": "BN11 1HD",
+    "latitude": "50.814239",
+    "longitude": "-0.372518"
+  },
+  {
+    "url": "http://www.oxfordshire.gov.uk/cms/content/wychwood-library",
+    "name": "Wychwood",
+    "$$hashKey": "06K",
+    "postcodes": [
+      "OX7 6LD",
+      "OX1 1ND"
+    ],
+    "postcode": "OX7 6LD",
+    "latitude": "51.861073",
+    "longitude": "-1.618903"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=7&uprn=100062562051",
+    "name": "Wye Library",
+    "$$hashKey": "06L",
+    "postcodes": [
+      "ME14 1LQ",
+      "TN25 5AF"
+    ],
+    "postcode": "TN25 5AF",
+    "latitude": "51.182316",
+    "longitude": "0.937091"
+  },
+  {
+    "url": "http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=61&uprn=200003660808",
+    "name": "Yalding Library",
+    "$$hashKey": "06M",
+    "postcodes": [
+      "ME14 1LQ",
+      "ME18 6HU"
+    ],
+    "postcode": "ME18 6HU",
+    "latitude": "51.224919",
+    "longitude": "0.431146"
+  }
+]
