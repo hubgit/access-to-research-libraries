@@ -59,7 +59,7 @@
 			<thead>
 				<tr>
 					<th>Library</th>
-					<th>Postcodes</th>
+					<th ng-show="!viewing">Postcodes</th>
 					<th>Postcode</th>
 					<th>Location</th>
 				</tr>
@@ -67,7 +67,7 @@
 			<tbody>
 				<tr ng-repeat="library in libraries">
 					<td><a ng-href="{{ library.url }}">{{ library.name }}</a></td>
-					<td>{{ library.postcodes.join(', ') }}</td>
+					<td ng-show="!viewing">{{ library.postcodes.join(', ') }}</td>
 					<td nowrap>{{ library.postcode }}</td>
 					<td nowrap><span ng-show="library.latitude">{{ library.latitude }}, {{ library.longitude }}</span></td>
 				</tr>
